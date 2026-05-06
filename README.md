@@ -74,13 +74,9 @@ After successful authentication, authorization controls access to various featur
 
 ## CODE
 
-```java
-// Example: Firebase Login Snippet
-mAuth.signInWithEmailAndPassword(email, password)
-    .addOnCompleteListener(task -> {
-        if (task.isSuccessful()) {
-            // Login success
-        } else {
-            // Login failed
-        }
-    });
+## OUTPUT
+
+## LEARNING OUTCOME
+Understood how to implement user authentication and authorization to secure mobile applications.
+Learn to build login, registration, and personalized user access features with proper navigation and session handling.
+
