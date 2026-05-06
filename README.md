@@ -20,6 +20,7 @@ In mobile apps, authentication is typically handled using:
 
 Firebase Authentication
 REST APIs with JWT (JSON Web Tokens)
+
 2. Authorization
 
 Authorization is the process of determining what an authenticated user is allowed to do. It answers the question: “What can you access?” Once a user is verified, authorization controls access to different resources and functionalities within the app.
